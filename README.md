@@ -1,7 +1,3 @@
-Thank you for providing the notebook contents\! This allows me to create a much more accurate and detailed README file. Based on the `machine learning project1.ipynb` (Olympic Medal Prediction) and `machine learning project2.ipynb` (Calories Burnt Prediction), here's a comprehensive README for your `Ml-Learning` repository, including specifics from your code.
-
------
-
 # ML-Learning 🧠
 
 Welcome to my **ML-Learning** repository\! This is where I document my exciting journey into the world of Machine Learning, showcasing practical applications and model development. This repository currently features two distinct projects: an **Olympic Medal Prediction Model** 🏅 and a **Calories Burnt Prediction Model** 🔥.
